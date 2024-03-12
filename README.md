@@ -55,7 +55,7 @@ INSERT INTO itens (nome, descricao, valor, imagem_url) VALUES</br>
 ('Power Bank 20000mAh', 'Carregador portátil de alta capacidade com duas portas USB para recarregar dispositivos móveis em movimento.', 49.99, 'https://m.media-amazon.com/images/I/61otus-W0qL.__AC_SX300_SY300_QL70_ML2_.jpg');</br>
 </br>
 <p>O arquivo my-api é o frontend da aplicação. Para a sua execução, utilizei o comando npm start, onde se inicia no localhost 3000, onde as rotas são:</p></br>
-/ - rota inicial;
+/ - rota inicial;</br>
 /login – rota do login</br>
 /cadastro – rota de cadastro</br>
 /resetsenha – resetar a senha</br>
