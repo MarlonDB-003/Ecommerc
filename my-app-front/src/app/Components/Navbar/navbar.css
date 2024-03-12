@@ -1,0 +1,14 @@
+.navbar{
+    margin-top: -10px;
+    background-color: #0d6efd;
+    height: 60px;
+}
+
+.nav-link{
+    font-size: 20px;
+    margin-top: -20px;
+}
+
+.title_home{
+    margin-top: -10px;
+}
